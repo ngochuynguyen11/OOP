@@ -1,0 +1,2 @@
+module KThua_DHinh {
+}
